@@ -1,0 +1,27 @@
+.Navigation {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 50px;
+    background: rgb(38, 38, 97);
+}
+
+.left-Section, .right-Section {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.title p {
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.Nav-item a {
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: rgba(255, 255, 255, 0.379);
+    border-radius: 5px;
+}

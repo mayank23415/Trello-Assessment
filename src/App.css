@@ -1,0 +1,26 @@
+.formArrayList {
+  display: flex;
+  list-style-type: none;
+  gap: 10px;
+  margin: 2%;
+}
+
+.formArrayListItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.formArrayListItem button {
+  padding: 7px 70px;
+  border: none;
+  background-color: rgb(76, 76, 76);
+  color: white;
+  border-radius: 10px;
+}
+
+.list-container {
+  display: flex;
+  align-items: center;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+}

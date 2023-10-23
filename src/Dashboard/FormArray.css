@@ -1,0 +1,32 @@
+.task-list {
+  width: fit-content;
+  height: fit-content;
+  padding: 10px 30px;
+  background-color: white;
+  border-radius: 10px;
+  margin: 5%;
+}
+
+.title {
+    font-size: 18px;
+}
+
+.list-item {
+  background-color: grey;
+  border-radius: 5px;
+  text-align: center;
+  text-align: center;
+}
+
+.list-item p {
+  padding: 5px 80px;
+  color: white;
+}
+
+.add-task {
+  padding: 7px 80px;
+  border: none;
+  background-color: rgb(76, 76, 76);
+  color: white;
+  border-radius: 10px;
+}
